@@ -2,7 +2,7 @@
   "name": "barmer-ecare-android-calendar",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kihaki.github.io/ecare-calendar",
+  "homepage": "https://purposebakery.github.io/ecare-calendar",
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
